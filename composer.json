@@ -1,6 +1,6 @@
 {
     "name": "supriyanih/kamarinap",
-    "description": "testing kamarinap",
+    "description": "paket kamar inap",
     "license": "MIT",
     "authors": [
         {
@@ -9,8 +9,5 @@
         }
     ],
     "minimum-stability": "dev",
-
     "require": {}
-
 }
-    
