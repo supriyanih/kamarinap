@@ -1,0 +1,16 @@
+{
+    "name": "supriyanih/kamarinap",
+    "description": "testing kamarinap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "supriyanih",
+            "email": "supriyanih@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {}
+
+}
+    
